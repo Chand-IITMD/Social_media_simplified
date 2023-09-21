@@ -1,0 +1,128 @@
+/*--------------------common-------------------------------------*/
+*{margin: 0; padding: 0;}
+body{ background-image: url(/image/topbackground.png);}
+.container {max-width: 1200px;  margin: auto;}
+.clearfix{clear: both; float: left; width: 100%;}
+.float-left{float: left;}
+.float-right{float: right;}
+
+/*------------------------header--------------------------------*/
+header .w-69{ padding: 30px; margin: 5px; width: 69%;}
+header .w-15{width: 25%; padding: 25px; margin: 2px;}
+header .toggle span{ border-bottom: 2px solid blue; margin-bottom: 1px; line-height: 4px; width: 35px; display: block; margin-top: 2px; padding-top: 7px; }
+header .quick-search { width: 150px; border-bottom: 2px solid blue; display: inline-block; margin-top: 24px; margin-right: 20px;}
+header .quick-search input { width: 120px; border: none; background: none; }
+header .logo{  padding: 25px 0px 35px 284px;}
+
+/*-----------------------main--------------------------------------*/  
+.border{  padding-bottom: 30px; border-bottom: 2px solid #0b5e98;   }
+   
+
+.background{margin-bottom: 0px; padding-bottom: 250px;margin-top: 55px; background-image: url(/image/background.jpg);}
+#about{margin-top: -90px;}
+#about h1{ font-size: 26px; padding: 3px; text-align: center;} #about p{ font-size: 16px; padding-bottom: 3px;} 
+#about .text{padding-right: 31px;;padding-top: 90px; color:#0b5e98;  }
+#about .w-30{ width: 30%;}
+ 
+  .sec-im{padding-left: 5px; width: 10%;}
+  .button2{ background-color:#0b5e98;cursor: pointer; border: 1px solid black; border-radius: 40px; margin: 10px 0px 0px 120px; padding: 1px; color: #c4c4c4;}
+         h4{ text-align: center; padding-bottom: 30px; color: #c4c4c4;}     
+         .text-5 ul li{ list-style: none; border-bottom: 2px solid #ffff;  padding-top: 10px; color: #c4c4c4; font-size: 48px; line-height:75px ; }
+       .main-what{color:#0b5e98; font-size: 16px;}
+ #what-Ready { text-align: right;}
+ #what-h{font-size: 26px; }
+#Whatwe-do .girl-laptop{width: 100%;padding-top: 500px;}
+
+#Whatwe-do  .girl{ width: 90%;padding-top: 80px;padding-left: 35px;}
+       
+      
+  /*----------------Case-study--------------*/
+ 
+  .w-50{width: 48%;}
+ .imag-11{padding-top: 165px;}
+ .imag-10{padding-top: 11px;}
+  .imag-1{ padding-top: 50px;}
+  #m-girl{padding-top: 40px;}
+  button{ padding:3px; width: 100px ; margin-left: 535px;  border: 1px solid black; border-radius: 50px; background-color:blue; cursor: pointer; margin-bottom: 10px; margin-top: 10px; color: #c4c4c4; font-family: Old Standard TT; }
+             h3{padding-top: 27px; padding-bottom: 5px; font-size:33px; color: #0b5e98;}  
+.text-5{font-family:Arial, Helvetica, sans-serif; padding-top: 90px; font-size: 32px; line-height: 48px;padding-left: 91px;}         
+ .center{  padding-left : 25px ; padding-top: 250px; }
+                #imag{padding-left: 600px; width: 25%; padding-top: 40px; }
+   
+/*-----------------who we are---------------------------*/
+.who-text-h1{   padding: 10px; text-align: center; padding-top: 40px; color: #c4c4c4; line-height: 120px; font-size: 55px;}
+.who-ul li{ list-style: none; font-size: 135px; text-decoration: none; }
+ h5{padding-bottom: 20px; font-size: 26px;}
+.who{width: 100%;}
+ .who-text-h{ text-align:center; padding-left: 350px; padding-right: 350px;    font-size: 16px;padding-top: 15px;line-height: 52px; }
+/*------------------Processs------------------------------*/
+.w-65{ width: 67.1%;}
+.w-35{width: 32.7%;}
+#h1,#h3,#p1{padding-left: 200px;  line-height: 51.77px; }
+#process .process-text h3{font-size: 23px;}
+ .process-text h1{font-size: 60px;padding-left: 240px; padding-bottom: 5px; padding-top: 50px;}
+#process .process-image{  padding-left: 22px; margin-left: -20px;  }
+#boys-imag{width: 100%;}
+
+/*-------------Launch  ---------------------------*/
+.background2{margin-bottom: 0px; padding-bottom: 250px;margin-top: -5px; background-image: url(/image/background.jpg);}
+#launch-girl{padding: 240px;width: 34%; }
+#launch-logo{padding: 187px; padding-top: 257px;}
+.launch-text{width: 80%; text-align: center; padding-left: 50px; padding-right: 50px;}
+#launch-button {  width: 100px ; margin-left: 0px;  border: 1px solid black; border-radius: 40px; background-color:white; cursor: pointer; margin-top: 20px; color: black;  }
+           
+   
+/*------------------hover-------------------------------------*/
+.quick-search input:hover{ background-color: #F0F0F0; color: #08000C;}
+ #about .button2:hover{ background-color:white; color: black;}
+button:hover{ background-color:white; color: black;}
+#launch-button:hover{ background-color:rgb(49, 184, 247); color: black;}
+
+/*-------------------Media Query-----------------------*/
+
+/*@media (max-width:1024)
+{ .text {width: 8% }}*/
+    
+
+   
+    
+   
+  
+
+
+
+    
+
+
+
+
+
+   
+   
+    
+
+
+
+
+   
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+   
+
+
+
+
+
+
